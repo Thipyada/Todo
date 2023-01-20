@@ -1,0 +1,12 @@
+h1,
+h3,
+h4,
+p,
+span {
+  color: aliceblue;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}
