@@ -62,7 +62,7 @@ export default function HomeTodo() {
     })
   }
 
-  console.log(`allTodo`, allTodo)
+  // console.log(`allTodo`, allTodo)
 
   const handleDelete = (deleteId: string) => {
     setAllTodo((prevAllTodo) => {
